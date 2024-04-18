@@ -1,0 +1,18 @@
+/*header*/
+.info{
+    background-image: url(../image/1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:scroll;
+}
+.navbar ul li a{
+   text-decoration: none;
+}
+/*my services*/
+.service-item{
+    background-color:orangered;
+    border-radius: 50%;
+}
+.testi-info img{
+    width:80px;
+}
